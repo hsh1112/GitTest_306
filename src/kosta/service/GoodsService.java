@@ -5,4 +5,8 @@ public class GoodsService {
 		System.out.println("추가 됐네용");
 		System.out.println("추가추가용");
 	}
+	
+	public void select() {
+		System.out.println("조회 추가용");
+	}
 }
