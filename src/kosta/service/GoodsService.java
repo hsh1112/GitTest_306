@@ -13,4 +13,8 @@ public class GoodsService {
 	public void update() {
 		System.out.println("삭제 대신 수정으로");
 	}
+	
+	public void delete() {
+		System.out.println("삭제임");
+	}
 }
