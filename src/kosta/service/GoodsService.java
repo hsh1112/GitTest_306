@@ -9,4 +9,8 @@ public class GoodsService {
 	public void select() {
 		System.out.println("조회 추가용");
 	}
+
+	public void delete() {
+		System.out.println("삭제 추가용")
+	}
 }
