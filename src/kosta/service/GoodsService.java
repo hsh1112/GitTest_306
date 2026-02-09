@@ -11,6 +11,7 @@ public class GoodsService {
 	}
 
 	public void delete() {
-		System.out.println("삭제 추가용")
+		System.out.println("삭제 추가용");
+		System.out.println("콜론 추가했어요");
 	}
 }
