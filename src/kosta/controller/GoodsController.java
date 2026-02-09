@@ -5,4 +5,5 @@ public class GoodsController {
   int a = 1;
   long b = 3;
   double c = 3.3;
+  String str = "test";
 }
