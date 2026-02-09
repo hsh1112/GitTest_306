@@ -12,4 +12,8 @@ public class GoodsController {
 		System.out.println("출력문 작성중임.. 건드리지 마셈!");
 	}
 
+	public void print() {
+		System.out.println("집 가고싶다");
+	}
+	
 }
