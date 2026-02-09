@@ -10,7 +10,7 @@ public class GoodsService {
 		System.out.println("조회 추가용");
 	}
 
-	public void delete() {
-		System.out.println("삭제 추가용")
+	public void update() {
+		System.out.println("삭제 대신 수정으로")
 	}
 }
