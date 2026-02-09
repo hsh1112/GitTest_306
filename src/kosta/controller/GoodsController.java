@@ -6,4 +6,7 @@ public class GoodsController {
   long b = 3;
   double c = 3.3;
   String str = "test";
+
+  public void test(){
+    System.out.println("출력문");
 }
